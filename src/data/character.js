@@ -129,7 +129,7 @@ const characters=[
         height: '178 cm', 
         preferredFoot :'Left',
         strengths:'Tackling-Work Rate-Stamina',
-        weaknesses:'Aggression-Aerial Duels'
+        weaknesses:'Aggression-Aerial Duelss'
     },
 ]
 
