@@ -1,0 +1,29 @@
+.character-post{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.character-post-bg{
+    background-color: rgba(0, 0, 0, 0.815);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.character-post-content{
+    background-color: rgb(163, 42, 42);
+    color: white;
+    z-index: 999;
+    height: 484.5px;
+}
+.character-post img{
+    height: 50%;
+    z-index: 999;
+}

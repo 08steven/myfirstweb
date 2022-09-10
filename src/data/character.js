@@ -1,0 +1,136 @@
+const characters=[
+    {
+        photo: '/images/Darwin Nunez.jpg',
+        name: 'Darwin Nunez',
+        no: 27,
+        position: 'Forward (ST-CF)',
+        dateOfBirth: '24 June 1999 (Age 23)',
+        placeOfBirth: 'Liverpool, England',
+        height: '187 cm (6 ft 1 in)',
+        preferredFoot :'Right',
+        strengths:'Finishing',
+        weaknesses:'Offside Awareness'
+    },
+    {
+        photo: '/images/Luis Diaz.jpg',
+        name: 'Luis Diaz',
+        no: 23,
+        position: 'Forward (LM-LW-RW)',
+        dateOfBirth: '13 January 1997 (Age 25)',
+        placeOfBirth: 'Barrancas, Colombia',
+        height: '180 cm (5 ft 10 in)',
+        preferredFoot :'Right',
+        strengths:'Dribbling-Flair-Agility',
+        weaknesses:'Strength'
+    },
+    {
+        photo: '/images/Mohamed Salah.png',
+        name: 'Mohamed Salah',
+        no: 11,
+        position: 'Forward (RW-LW-CAM)',
+        dateOfBirth: '15 June 1992 (Age 30)',
+        placeOfBirth: 'Nagrig, Basyoun, Egypt',
+        height: '175 cm (5 ft 9 in)',
+        preferredFoot :'Left',
+        strengths:'Dribbling-Decisions-Acceleration',
+        weaknesses:'Strength'
+    },
+    {
+        photo: '/images/Jordan Henderson.jpg',
+        name: 'Jordan Henderson (C)',
+        no: 14,
+        position: 'Midfielder (CM-CDM)',
+        dateOfBirth: '17 June 1990 (Age 32)',
+        placeOfBirth: 'Sunderland, England',
+        height: '182 cm (6 ft 0 in)',
+        preferredFoot :'Right',
+        strengths:'Diligent',
+        weaknesses:'Creativity'
+    },
+    {
+        photo: '/images/Thiago Alcantara.jpg',
+        name: 'Thiago Alcantara',
+        no: 6,
+        position: 'Midfielder (CM-CDM)',
+        dateOfBirth: '11 April 1991 (Age 31)',
+        placeOfBirth: 'San Pietro Vernotico, Italy',
+        height: '174 cm (5 ft 9 in)',
+        preferredFoot :'Right',
+        strengths:'Passing-Creativity',
+        weaknesses:'Easily injured player'
+    },
+    {
+        photo: '/images/Fabinho.jpg',
+        name: 'Fabinho',
+        no: 3,
+        position: 'Midfielder (CDM)',
+        dateOfBirth: '23 October 1993 (Age 29)',
+        placeOfBirth: 'Campinas, Brazil',
+        height: '188 cm (6 ft 2 in)',
+        preferredFoot :'Right',
+        strengths:'Passing-Strength-Inception',
+        weaknesses:'Flexible'
+    },
+    {
+        photo: '/images/Trent Alexander-Arnold.jpg',
+        name: 'Trent Alexander-Arnold',
+        no: 66,
+        position: 'Defender (RB-CM)',
+        dateOfBirth: '7 October 1998 (Age 24)',
+        placeOfBirth: 'Liverpool, England',
+        height: '175 cm (5 ft 9 in)',
+        preferredFoot :'Right',
+        strengths:'Long passing-Creativity',
+        weaknesses:'Inception'
+    },
+    {
+        photo: '/images/Virgil van Dijk.jpg',
+        name: 'Virgil van Dijk',
+        no: 4,
+        position: 'Defender (CB)',
+        dateOfBirth: '8 July 1991 (Age 31)',
+        placeOfBirth: 'Breda, Netherlands',
+        height: '193 cm (6 ft 4 in)',
+        preferredFoot :'Right',
+        strengths:'Interceptions-Concentration-Aerial Duels',
+        weaknesses:'(No significant weaknesses)'
+    },
+    {
+        photo: '/images/Ibrahima Konate.jpg',
+        name: 'Ibrahima Konate',
+        no: 5,
+        position: 'Defender (CB)',
+        dateOfBirth: '25 May 1999 (Age 23)',
+        placeOfBirth: 'Paris, France',
+        height: '194 cm (6 ft 4 in)',
+        preferredFoot :'Right',
+        strengths:'Aerial Duels-Bravery-Strength',
+        weaknesses:'Vision'
+    },
+    {
+        photo: '/images/Andy Robertson.jpg',
+        name: 'Andrew Robertson',
+        no: 26,
+        position: 'Defender (LB-LM)',
+        dateOfBirth: '11 March 1994 (Age 28)',
+        placeOfBirth: 'Glasgow, Scotland',
+        height: '178 cm (5 ft 10 in)',
+        preferredFoot :'Left',
+        strengths:'Tackling-Work Rate-Stamina',
+        weaknesses:'Aggression-Aerial Duels'
+    },
+    {
+        photo: '/images/Alisson Becker.jpg',
+        name: 'Alisson Becker',
+        no: 1,
+        position: 'Goalkeeper (GK)',
+        dateOfBirth: '2 October 1992 (Age 30)',
+        placeOfBirth: 'Novo Hamburgo, Brazil',
+        height: '178 cm', 
+        preferredFoot :'Left',
+        strengths:'Tackling-Work Rate-Stamina',
+        weaknesses:'Aggression-Aerial Duels'
+    },
+]
+
+export default characters;

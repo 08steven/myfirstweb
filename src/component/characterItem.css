@@ -1,0 +1,22 @@
+.character-item img{
+    width: 500px;
+    cursor: grab;
+}
+.character-item{
+    text-align: center;
+}
+.tag-item:hover{
+    text-decoration: underline;
+    cursor: grab;
+    color: rgb(163, 42, 42);
+}
+.character-photo:hover{
+    opacity: 0.5;
+}
+.character-photo{
+    margin: 30px 30px 5px 30px;
+}
+
+.not-found{
+    text-align: center;
+}
